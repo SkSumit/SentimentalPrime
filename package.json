@@ -6,7 +6,7 @@
 	"description": "Fetched tweets using API and performs sentimental analysis.",
 	"main": "test.js",
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"nodemon": "^2.0.3",
 		"sentiment": "latest",
 		"twitter": "latest"
